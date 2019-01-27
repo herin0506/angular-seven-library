@@ -1,7 +1,0 @@
-{
-  "environment": "production",
-  "i18n": {
-    "url": "",
-    "locale": "en-us"
-  }
-}
